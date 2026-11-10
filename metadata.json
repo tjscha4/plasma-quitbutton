@@ -10,10 +10,10 @@
       }
     ],
     "License": "GPL-2.0+",
-    "Version": "0.9",
+    "Version": "0.9.1",
     "Category": "Windows and Tasks",
-    "Website": "TBD",
-    "BugReportUrl": "NA"
+    "Website": "https://store.kde.org/p/2381569/",
+    "BugReportUrl": "https://github.com/tjscha4/plasma-quitbutton"
   },
   "KPackageStructure": "Plasma/Applet",
   "X-Plasma-API-Minimum-Version": "6.0"
