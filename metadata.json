@@ -1,0 +1,20 @@
+{
+  "KPlugin": {
+    "Id": "com.github.tjscha4.quitbutton",
+    "Name": "Quit Button",
+    "Description": "Global-menu style Quit button that closes the focused window",
+    "Icon": "application-exit",
+    "Authors": [
+      {
+        "Name": "tjscha4"
+      }
+    ],
+    "License": "GPL-2.0+",
+    "Version": "0.9",
+    "Category": "Windows and Tasks",
+    "Website": "TBD",
+    "BugReportUrl": "NA"
+  },
+  "KPackageStructure": "Plasma/Applet",
+  "X-Plasma-API-Minimum-Version": "6.0"
+}
